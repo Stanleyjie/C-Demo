@@ -12,6 +12,10 @@ namespace ConsoleApp
         }
         /// <summary>
         /// String.IsNullOrEmpty and String.IsNullOrWhiteSpace
+        /*.Net Framework 4.0 Beta 2 has a new IsNullOrWhiteSpace() method for strings 
+         * which generalizes the IsNullOrEmpty() method to also include other white space besides empty string.
+         * The term “white space” includes all characters that are not visible on screen.For example, space, 
+         * line break, tab and empty string are white space characters*.*/
         /// </summary>
         public static void StringIsNull() 
         {
