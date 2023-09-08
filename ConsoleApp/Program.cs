@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata.Ecma335;
 
 namespace ConsoleApp
 {
@@ -7,7 +8,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("--------Begin--------");
-            StringIsNull();
+            DateTimeDemo();
             Console.WriteLine("--------End--------");
         }
         /// <summary>
@@ -32,6 +33,12 @@ namespace ConsoleApp
             Console.WriteLine(String.IsNullOrWhiteSpace(emptyString));              //true
             Console.WriteLine(String.IsNullOrWhiteSpace(whiteSpaceString));         //true
             Console.WriteLine(String.IsNullOrWhiteSpace(nonEmptyString));           //false
+        }
+
+        public static void DateTimeDemo()
+        {
+            var now = DateTime.Now.Hour;
+            Console.WriteLine(now);
         }
     }
 }

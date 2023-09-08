@@ -12,3 +12,17 @@ E:\SL\CSharp-ConsoleAppDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
 E:\SL\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
 E:\SL\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
 E:\SL\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\工作文件\GITHUB\SLGITHUB\CSharp-ConsoleAppDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
